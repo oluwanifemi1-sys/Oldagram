@@ -1,0 +1,75 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.user-avatar {
+  border-radius: 50%;
+  width: 80px;
+  margin-left: 700px;
+  margin-bottom: 55px;
+}
+
+.lining {
+  border: solid;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 80px;
+  margin-right: 700px;
+  margin-bottom: 200pxpx;
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.post-ducreux,
+.post-courbet,
+.post-vangogh {
+  width: 100%;
+}
+
+.avatar-name {
+  font-family: source sans pro, sans-serif;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.avatar-nationality {
+  font-family: source sans pro, sans-serif;
+  font-weight: lighter;
+  margin-top: 5px;
+}
+
+.post {
+  font-family: source sans pro, sans-serif;
+  font-weight: lighter;
+}
+
+.likes {
+  font-family: source sans pro, sans-serif;
+  font-weight: bolder;
+}
+
+.icon {
+  width: 50px;
+  margin-top: 10px;
+}
+
+.icon-heart:hover {
+  background-color: red;
+}
+
+.icon-heart:active {
+  background-color: red;
+}
+
+.icon-heart {
+  width: 50px;
+  margin-top: 10px;
+}
+
+.container {
+  padding: 45px 0;
+}
